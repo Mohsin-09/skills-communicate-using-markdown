@@ -7,6 +7,14 @@
 
 ## Morning Planning
 
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" >
+
+
+
+
+
+
 ## Review
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
